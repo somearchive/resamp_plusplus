@@ -5,9 +5,10 @@
 ## Установка
 
 1. Скачайте [resamp++ {кликабельно}](https://github.com/somearchive/resamp_plusplus/blob/main/resamp++.asi?raw=true) и поместите файл в папку с игрой.
-2. Убедитесь, что у вас установлен ASI Loader.  
-3. Запустите игру и наслаждайтесь.
-4. Активация `F2`
+2. Для использования квадратного радара скачайте [resamp++.txd {кликабельно}](https://github.com/somearchive/resamp_plusplus/blob/main/resamp++.txd?raw=true) и поместите файл в папку с игрой.
+3. Убедитесь, что у вас установлен ASI Loader.  
+4. Запустите игру и наслаждайтесь.
+5. Активация `F2`
 
 ## Функционал
 
